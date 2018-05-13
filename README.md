@@ -1,4 +1,4 @@
-#WicketWallpaperDaemon
+# WicketWallpaperDaemon
 
 This is a simple C++ HTTP application which needs the address of a picture in the web as an input, downloads it to an also given file and sets it as the wallpaper. Then it steadily watches this picture, and if it finds a new version of it, it automatically 
 downloads it and updates the walpaper with its content.
