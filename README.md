@@ -1,7 +1,6 @@
 # WicketWallpaperDaemon
 
-This is a simple C++ HTTP application which needs the address of a picture in the web as an input, downloads it to an also given file and sets it as the wallpaper. Then it steadily watches this picture, and if it finds a new version of it, it automatically 
-downloads it and updates the walpaper with its content.
+This is a simple C++ HTTP application which needs the address of a picture in the web as an input, downloads it to an also given file and sets it as the wallpaper. Now it will steadily watch this picture, and if the pictures gets updated on the server, it will automatically download it and update the wallpaper with its content.
 
 **Example: */path/to/WicketWallpaperDaemon.exe glockner.viewbito.com /current/p_01.jpg C:\Users\%USERNAME%\Wallpaper.jpg***
 
