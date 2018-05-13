@@ -1,6 +1,6 @@
 # WicketWallpaperDaemon
 
-This is a simple C++ HTTP application which needs the address of a picture in the web as an input, downloads it to an also given file and sets it as the wallpaper. Now it will steadily watch this picture, and if the pictures gets updated on the server, it will automatically download it and update the wallpaper with its content.
+This is a simple C++ Boost.Asio HTTP application which needs the address of a picture in the web as an input argument, downloads it to an also given file and sets it as the wallpaper. Now it will steadily watch this picture, and if the pictures gets updated on the server, it will automatically download it and update the wallpaper with its content.
 
 **Example: */path/to/WicketWallpaperDaemon.exe glockner.viewbito.com /current/p_01.jpg C:\Users\%USERNAME%\Wallpaper.jpg***
 
