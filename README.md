@@ -6,6 +6,6 @@ This is a simple C++ Boost.Asio HTTP application which needs the address of a pi
 
 **Whereis:**
 - */path/to/WicketWallpaperDaemon.exe*: where you have saved WicketWallpaperDeamon.exe to
-- *glockner.viewbito.com*: the DNS name of the server*
-- */current/p_01.jpg*: the location of the picture on the HTTP server*
-- *C:\Users\%USERNAME%\Wallpaper.jpg*: where you want the picture to be saved to*
+- *glockner.viewbito.com*: the DNS name of the server
+- */current/p_01.jpg*: the location of the picture on the HTTP server
+- *C:\Users\%USERNAME%\Wallpaper.jpg*: where you want the picture to be saved to
